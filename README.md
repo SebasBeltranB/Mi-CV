@@ -1,2 +1,2 @@
 # Mi-CV
-Proyecto 2: Mi CV
+Proyecto 2 - Mi CV
